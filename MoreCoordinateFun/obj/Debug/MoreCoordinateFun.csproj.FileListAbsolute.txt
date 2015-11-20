@@ -1,0 +1,6 @@
+C:\ConsoleApps\MoreCoordinateFun\MoreCoordinateFun\obj\Debug\MoreCoordinateFun.csprojResolveAssemblyReference.cache
+C:\ConsoleApps\MoreCoordinateFun\MoreCoordinateFun\bin\Debug\SphericalTrigonometry.exe.config
+C:\ConsoleApps\MoreCoordinateFun\MoreCoordinateFun\bin\Debug\SphericalTrigonometry.exe
+C:\ConsoleApps\MoreCoordinateFun\MoreCoordinateFun\bin\Debug\SphericalTrigonometry.pdb
+C:\ConsoleApps\MoreCoordinateFun\MoreCoordinateFun\obj\Debug\SphericalTrigonometry.exe
+C:\ConsoleApps\MoreCoordinateFun\MoreCoordinateFun\obj\Debug\SphericalTrigonometry.pdb
