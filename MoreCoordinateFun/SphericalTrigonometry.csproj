@@ -41,12 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EuclideanGeometry.cs" />
     <Compile Include="Geometry.cs" />
+    <Compile Include="LineSegmentCtrlPoint.cs" />
     <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Route.cs" />
-    <Compile Include="XmlParser.cs" />
+    <Compile Include="LineSegmentControlPoints.cs" />
+    <Compile Include="SpreadRouteControlPointsBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
